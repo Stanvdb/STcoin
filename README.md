@@ -1,0 +1,2 @@
+# STcoin
+cryptomunt
